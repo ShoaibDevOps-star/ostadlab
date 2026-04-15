@@ -39,7 +39,7 @@ git branch
 #   feature/payment
 #   feature/profile
 # * main
-
+```
 
 Commit history before rebase:
 
