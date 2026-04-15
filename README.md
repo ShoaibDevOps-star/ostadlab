@@ -70,6 +70,17 @@ squash 4faade3 Add Six login HTML file
 
 <img width="811" height="213" alt="image" src="https://github.com/user-attachments/assets/7f117469-63ad-4f9b-b19f-33244b5f741f" />
 
+
+Git Merge 🤝
+
+What it does:
+Merge creates a new "merge commit" that joins two branches together, preserving the complete history of both branches.
+
+Git Rebase 🔄
+
+What it does:
+Rebase moves the entire feature branch to begin at the tip of the target branch, creating a linear history.
+
 <img width="836" height="291" alt="image" src="https://github.com/user-attachments/assets/bf5c1afe-6c13-425f-9e24-6993e59c8217" />
 
 
