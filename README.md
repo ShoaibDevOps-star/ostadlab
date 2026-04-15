@@ -43,11 +43,11 @@ git branch
 
 Commit history before rebase:
 
-<img width="791" height="208" alt="image" src="https://github.com/user-attachments/assets/4166903c-5bad-452f-867f-e52d6c31a6e3" />
+![alt text]<img width="791" height="208" alt="image" src="https://github.com/user-attachments/assets/4166903c-5bad-452f-867f-e52d6c31a6e3" />
 
 Commit history after rebase:
 
-<img width="811" height="213" alt="image" src="https://github.com/user-attachments/assets/7f117469-63ad-4f9b-b19f-33244b5f741f" />
+![alt text]<img width="811" height="213" alt="image" src="https://github.com/user-attachments/assets/7f117469-63ad-4f9b-b19f-33244b5f741f" />
 
 
 
